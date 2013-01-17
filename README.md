@@ -1,4 +1,4 @@
-wordpress-theme-bootstrap
+wpbootstrap
 =========================
 
 Exemplo retirado do site http://blog.teamtreehouse.com/responsive-wordpress-bootstrap-theme-tutorial
